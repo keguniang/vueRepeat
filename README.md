@@ -45,3 +45,6 @@ module.exports = {
 3. 是因为还没有在main.js 中导入mui 的样式
 4. 在main.js 中   ` import './lib/mui/css/mui.css'`就可看到效果
 
+# 把代码托管到git仓储上
+具体操作看 onenote
+
